@@ -12,7 +12,7 @@ There is also the state estimation data (height, velocity), the filtered baromet
 
 Events are also recorded, for example Thrusting, Coasting, Apogee etc.
 
-The rocket flew nominally for 1.3 seconds and after that the motor failed due to a faulty O-ring. The CATS flight computer was programmed with a machtimer of 20 seconds (as we expected nominal flight) and hence, the apogee was delayed by 20 seconds. Without a machtimer the CATS would have detected apogee at 3.3 seconds (30 samples after the velocity hits zero).
+The rocket flew nominally for 1.3 seconds and after that the motor failed due to a faulty O-ring. The CATS flight computer was programmed with a machtimer of 20 seconds (as we expected nominal flight) and hence, the apogee was delayed by 20 seconds. Without a machtimer the CATS would have detected apogee at 3.3 seconds (30 samples after the velocity hits zero). The FC was placed in the main body.
 
 Flight Statistics:
 
