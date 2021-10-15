@@ -1,0 +1,17 @@
+...My Eggtimer TRS
+ASL Alt.: 456 ft
+Base Temp: 103.8 F
+Beep Code: 0
+Last Flight Phase: 9
+Flight Time: 59.500
+Apogee: 976 ft
+T @ Apogee: 1.000
+Max Veloc: 2669 ft/sec
+T @ Max Veloc: 0.950
+Avg Accel @ Max Veloc: 2809.47 ft/sec2
+G: 87.25
+
+LDA: 205 ft
+Time @ LDA:0.900
+Alt @ N-O: 0 ft
+T @ N-O: 59.500
