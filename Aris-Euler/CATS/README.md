@@ -8,6 +8,8 @@ The csv files are also available in this folder.
 
 The CATS board records 3 Barometers (ms5067), 2 IMU's (ICM20601), 1 Magneto (mmc5983ma) and one high-G accelerometer (h3lis100dl), all of them with 100 Hz.
 
+The barometer readings are in pascals, the temperature in °C, the linear acceleration in m/s^2, the gyro in dps, the magneto in mG. The state estimation height is in m and the velocity in m/s.
+
 There is also the state estimation data (height, velocity), the filtered barometer data (median filtered over 9 samples) and an experimental orientation filter which unfortunately broke down after 1.3 seconds, all of them also sampled with 100 Hz.
 
 Events are also recorded, for example Thrusting, Coasting, Apogee etc.
