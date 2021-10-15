@@ -18,8 +18,7 @@ The rocket flew nominally for 1.3 seconds and after that the motor failed due to
 
 Flight Statistics:
 
+```
 Max height: 170 m
-
 Max velocity: 80 m/s
-
-Motor thrust: 8 g's
+```
