@@ -39,7 +39,7 @@ Note: due to missing GPS fix, gps data and navigation system data are mostly mea
 | pin_nosecone | uint8_t | - | Nosecone pin status (1 = connected, 0 = disconnected) |
 | servo_sensor | uint8_t | - | Servo sensor status (1 = actuated, 0 = idle) |
 | ab_angle | float | deg | Aerobrakes angle |
-| ab_estimated_cd | float | Estimated drag coefficient |
+| ab_estimated_cd | float | - | Estimated drag coefficient |
 | nas_x | float | deg | Navigation system estimated X position (longitude) |
 | nas_y | float | deg | Navigation system estimated Y position (latitude) |
 | nas_z | float | m | Navigation system estimated Z position |
